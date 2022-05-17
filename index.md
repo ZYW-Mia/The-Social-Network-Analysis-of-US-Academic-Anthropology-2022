@@ -23,7 +23,7 @@ Therefore, referring to this data to apply for Ph.D., if you want to stay in the
 # The Positions Comparision between 1976 and 2022
 ## For more interactions with the positions comparision graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/index.html).
 
-This is the graph showing that in terms of faculty number, Chicago, UC Berkeley, Harvard, and Michigan university are at the front, all over 100 faculties. Not to our surprise, Chicago University and Harvard both have impressive numbers of faculty, but the other two under discussion, Yale and Stanford are overnumbered by UC Berkeley and Michigan, which are recently expanding their abundance of subjects and the strength of the Anthropology departments. 
+By comparing the distribution between the faculty positions of each university owning Anthropology department in 1976 and 2022, we find that the extreme centralization of the academic resource has been alleviated. From the tree maps, it is obvious that in 1970s, the four universities each possessed over or very close to 200 positions, which almost doubled the 5th place, Michigan University. Furthermore, the first four account for over 40 percent of all faculty positions, while in 2022, this figure falls to around one quater.
 
 ![block](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/block.png)
 ![fan](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/fan.png)
