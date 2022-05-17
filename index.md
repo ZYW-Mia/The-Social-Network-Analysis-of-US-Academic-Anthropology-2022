@@ -1,8 +1,9 @@
 # The Social Network Analysis of US Academic Anthropology 2022
 This is a joint work by: Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An and Xiaoyong Zhou
-# The Social Network Graph
+# Hiring Network 
 ## For more interactions with the social network graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html). 
 ![network](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/network.png)
+
 # The Global Map of QS Anthoropology Rank
 ## For more interactions with the global map, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/map-bar-morph.html).
 
@@ -11,7 +12,7 @@ This map shows the number of QS top 100 schools owned by each country. It's easy
 ![map](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/global_map.png)
 ![bar](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/bar.png) 
 
-# The Corralation Analysis with QS Anthoropology Rank
+# Correlation between Rankings and Placement
 
 The graph below plots the relationship between a university's QS ranking for anthropology and the jobs its Ph.D. graduates get. The top 50 universities are plotted. The x-axis is the QS ranking of the university and the y-axis is the number of U.S university faculty positions its Ph.D. students get. Universities inside the U.S are drawn with orange dots, while universities outside the U.S are drawn in blue. The linear fit lines are also drawn with the corresponding colors.
 
@@ -20,8 +21,9 @@ Therefore, referring to this data to apply for Ph.D., if you want to stay in the
 
 ![Correlation](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/linearplot.png)
 
-# The Positions Comparision between 1976 and 2022
-## For more interactions with the positions comparision graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/index.html).
+# Dynamics Development (1976 and 2022)
+## Number of Positions Comparision
+### For more interactions with the positions comparision graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/index.html).
 
 By comparing the distribution between the faculty positions of each university owning Anthropology department in 1976 and 2022, we find that the extreme centralization of the academic resource has been alleviated. From the tree maps, it is obvious that in 1970s, the four universities each possessed over or very close to 200 positions, which almost doubled the 5th place, Michigan University. Furthermore, the first four account for over 40 percent of all faculty positions, while in 2022, this figure falls to around one quater.
 
@@ -29,7 +31,7 @@ By comparing the distribution between the faculty positions of each university o
 ![fan](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/fan.png)
 
 
-# The Distrubutions Comparision between 1976 and 2022
+## Distrubutions Comparision
 This distribution chart illustrates that in 1967, the top 4 schools of the number of graduates as faculty of any school were: Harvard, UC Berkeley, Chicago, and Columbia, while in 2022 the position of Columbia became Michigan.
 
   Through the data of graduates from a particular school listed as faculty of any school in 1967 and 2022, calculating the mean and standard deviation of the year 2022, 𝜇1=23.04, 𝜎1=28.73 and the year 1967, 𝜇2=31.96, 𝜎2=53.38. Compared with 1976, the mean and standard deviation of 2022 degrees were 27.9% and 46.2%. It means in 1976, the average number of graduates who find faculty position is more than that in 2022 and these graduates are more concentrated in the top 4 schools. The decrease in standard deviation indicates that graduates from non-top 4 schools could have more opportunities to get faculty positions.
