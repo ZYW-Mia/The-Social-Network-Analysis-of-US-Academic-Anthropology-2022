@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# The-Social-Network-of-US-Academic-Anthropology-2022
 
 You can use the [editor on GitHub](https://github.com/ZYW-Mia/The-Social-network-of-US-Academic-Anthropology-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# The Social Network Graph
+# The Word Map
+# The Corralation Analysis with QS Anthoropology
+# The Distrubution
 
 - Bulleted
 - List
