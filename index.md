@@ -1,4 +1,5 @@
 # The Social Network Analysis of US Academic Anthropology 2022
+[1] (https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html) 
 ## The Social Network Graph
 ## The Global Map of QS Anthoropology Rank
 ## The Corralation Analysis with QS Anthoropology Rank
