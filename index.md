@@ -1,5 +1,5 @@
 # The Social Network Analysis of US Academic Anthropology 2022
-This is a joint work by: Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An, Xiaoyong Zhou
+This is a joint work by: Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An and Xiaoyong Zhou
 # The Social Network Graph
 ## For more interactions with the social network graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html). 
 ![network](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/network.png)
@@ -7,6 +7,9 @@ This is a joint work by: Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An, Xiaoyong
 ## For more interactions with the global map, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/map-bar-morph.html).
 ![map](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/global_map.png)
 ![bar](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/bar.png) 
+
+This map shows the number of QS top 100 schools owned by each country. It's easy to see that the United States is the strongest country in this field, with 39 associated schools, far outnumbering the second-placed region. The number of UK, Australia, Canada and France are 12, 8, 6 and 6. There are only a few schools in the rest of the world that can enter the top 100 in the world.
+
 # The Corralation Analysis with QS Anthoropology Rank
 ![Correlation](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/linearplot.png)
 
