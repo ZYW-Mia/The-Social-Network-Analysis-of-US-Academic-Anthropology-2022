@@ -1,8 +1,10 @@
 
 # The Social Network Graph
-[Network](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html) 
+For more interactions with the social network graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html) 
 # The Global Map of QS Anthoropology Rank
-[Global Map](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/map-bar-morph.html) 
+For more interactions with the global map, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/map-bar-morph.html).
+![map](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/global_map.png)
+![bar](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/bar.png) 
 # The Corralation Analysis with QS Anthoropology Rank
 ![Correlation](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/linearplot.png)
 
