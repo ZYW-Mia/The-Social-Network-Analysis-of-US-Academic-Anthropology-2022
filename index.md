@@ -3,7 +3,6 @@ This is a joint work by: Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An and Xiaoy
 # Hiring Network 
 
 ## For more interactions with the social network graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html). 
-![network](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/network.png)
 
 Using social network analysis, we examined structural features of the network. Of the 2036 total ties,  200 originated from programs outside of the network, primarily through individuals who earned their PhDs in universities outside of the United States as well as a few who received PhDs in US programs other than anthropology. Excluding those ties was necessary to assess reciprocity and collect other measures that consider directed relations in the network.
 
@@ -12,6 +11,8 @@ Ties between programs are unevenly distributed because a few programs placed a d
 Measures of network centrality could identify how other programs influence others. Degree centrality represents the number of nodes to which one node is directly connected. The measure correlates highly with overall faculty placements in the network, because universities place more graduates at other programs are connected to more programs. Chicago, Michigan, Harvard and UC Berkeley exhibited the highest degree centrality in the whole network.
 
 These universities were first in the field of anthropology with nearly 100-year history. They produced the greatest number of Ph.D.s in anthropology and also dominated in this field.
+
+![network](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/network.png)
 
 # Global Map of QS Anthoropology Rank
 ## For more interactions with the global map, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/map-bar-morph.html).
