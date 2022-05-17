@@ -20,7 +20,7 @@ For more interactions with the positions comparision graph, please click [here](
 
 
 # The Distrubutions Comparision between 1976 and 2022
-![Distribution](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/distribution.png)
+![Distribution](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/distribution/distribution.png)
 
 This distribution chart illustrates that in 1967, the top 4 schools of the number of graduates as faculty of any school were: Harvard, UC Berkeley, Chicago, and Columbia, while in 2022 the position of Columbia became Michigan.
 Through the data of graduates from a particular school listed as faculty of any school in 1967 and 2022, calculating the mean and standard deviation of the year 2022, 𝜇1=23.04, 𝜎1=28.73 and the year 1967, 𝜇2=31.96, 𝜎2=53.38. Compared with 1976, the mean and standard deviation of 2022 degrees were 27.9% and 46.2%. It means in 1976, the average number of graduates who find faculty position is more than that in 2022 and these graduates are more concentrated in the top 4 schools. The decrease in standard deviation indicates that graduates from non-top 4 schools could have more opportunities to get faculty positions.
