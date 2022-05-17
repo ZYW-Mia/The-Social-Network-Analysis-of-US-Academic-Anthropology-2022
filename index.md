@@ -1,9 +1,15 @@
 # The Social Network Analysis of US Academic Anthropology 2022
-[1] (https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html) 
+
 ## The Social Network Graph
+[Network](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html) 
 ## The Global Map of QS Anthoropology Rank
+[Global Map](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/global_map/map-bar-morph.html) 
 ## The Corralation Analysis with QS Anthoropology Rank
+[Correlation](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/linearplot.png)
 ## The Distrubution Comparision between 1976 and 2022
+[Distribution](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/linearplot.png)
+## The Positions Comparision between 1976 and 2022
+[Positions](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/correlation/linearplot.png)
 
 You can use the [editor on GitHub](https://github.com/ZYW-Mia/The-Social-network-of-US-Academic-Anthropology-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
