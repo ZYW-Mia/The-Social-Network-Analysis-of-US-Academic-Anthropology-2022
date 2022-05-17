@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>title</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<style>
+    .parentDiv {
+        width: 90%;
+        height: 90vh;
+        margin: 2% auto;
+    }
+
+    #leftDiv {
+        width: 45%;
+        height: 100%;
+        float: left;
+        margin-right: 2%;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+
+    #rightDiv {
+        width: 45%;
+        height: 100%;
+        float: left;
+        margin-left: 2%;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+</style>
+
+<body>
+    <div class="parentDiv" id="lineChart">
+        <div id="leftDiv"></div>
+        <div id="rightDiv"></div>
+    </div>
+</body>
+
+</html>
+
+<script src="./js/echarts.min.js"></script>
+<script src="./js/data.js"></script>
+
+<script>
+    let color = ['#5470c6', '#91cc75', '#fac858', '#ee6666', '#73c0de', '#3ba272', '#fc8452', '#9a60b4', '#ea7ccc']
+
+
+    treeChart("leftDiv", data_2022, "2022");
+    treeChart("rightDiv", data_1976, "1976");
+    // barChart("rightDiv", data_1976, "1976");
+
+    function treeChart(div, data, title) {
+        var myChart = echarts.init(document.getElementById(div));
+
+
+        for (var n in data) {
+            data[n]["name"] = data[n]["name"] + " " + data[n]["value"];
+        }
+
+        option = {
+            title: {
+                text: "Year " + title,
+                subtext: "",
+                left: "center",
+                top: "5%",
+                textStyle: {
+                    color: "#000",
+                    fontWeight: "normal",
+                },
+            },
+            visualMap: {
+                show: false,
+                inRange: {
+                    color: ["#B0C4DE", "#6495ED", "#4169E1", "#0000FF", "#00008B"], // 蓝绿
+                },
+            },
+            tooltip: {
+                trigger: "item",
+                formatter: "{b}",
+            },
+            series: [{
+                type: "treemap",
+                width: "90%",
+                height: "70%",
+                roam: true,
+                nodeClick: false, //点击节点后的行为,false无反应
+                breadcrumb: {
+                    show: false,
+                },
+                label: {
+                    formatter: "{a}",
+                    //描述了每个矩形中，文本标签的样式。
+                    normal: {
+                        show: true,
+                        position: ["10%", "40%"],
+                    },
+                },
+                itemStyle: {
+                    normal: {
+                        show: true,
+                        textStyle: {
+                            color: "#fff",
+                            fontSize: 16,
+                        },
+                        borderWidth: 1,
+                        borderColor: "#fff",
+                    },
+
+                    emphasis: {
+                        label: {
+                            show: true,
+                        },
+                    },
+                },
+                data: data,
+            }, ],
+        };
+
+        myChart.setOption(option);
+        window.addEventListener("resize", function () {
+            myChart.resize();
+        });
+
+        myChart.on('click', function (params) {
+            if (title === '2022') {
+                barChart("leftDiv", data_2022, "2022");
+            } else {
+                barChart("rightDiv", data_1976, "1976");
+            }
+        })
+    }
+
+
+    function barChart(div, data, title) {
+        var myChart = echarts.init(document.getElementById(div));
+
+        option = {
+            color: color,
+            title: {
+                text: "Year " + title,
+                subtext: "",
+                left: "center",
+                top: "5%",
+                textStyle: {
+                    color: "#000",
+                    fontWeight: "normal",
+                },
+            },
+            tooltip: {
+                trigger: 'item'
+            },
+            series: [{
+                name: '',
+                type: 'pie',
+                radius: ['40%', '70%'],
+                avoidLabelOverlap: false,
+                itemStyle: {
+                    borderRadius: 10,
+                    borderColor: '#fff',
+                    borderWidth: 2
+                },
+                label: {
+                    show: false,
+                    position: 'center'
+                },
+                emphasis: {
+                    label: {
+                        show: true,
+                        fontSize: '40',
+                        fontWeight: 'bold'
+                    }
+                },
+                labelLine: {
+                    show: false
+                },
+                data: data
+            }]
+        };
+
+        myChart.setOption(option);
+        window.addEventListener("resize", function () {
+            myChart.resize();
+        });
+    }
+</script>
