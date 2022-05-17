@@ -1,4 +1,7 @@
 # The-Social-Network-of-US-Academic-Anthropology-2022
+## 2022 KU Leuven Data Visualization Group Assignment Group 8
+Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An, Xiaoyong Zhou
+
 
 You can use the [editor on GitHub](https://github.com/ZYW-Mia/The-Social-network-of-US-Academic-Anthropology-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
