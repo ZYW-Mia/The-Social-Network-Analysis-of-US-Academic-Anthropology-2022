@@ -16,7 +16,7 @@ The Pearson correlation coefficient between the QS ranking of all universities i
 Therefore, referring to this data to apply for Ph.D., if you want to stay in the United States to work in the future, the higher the school's anthropology ranking, the easier it is to find a job.
 
 # The Positions Comparision between 1976 and 2022
-## For more interactions with the positions comparision graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/index.html)
+## For more interactions with the positions comparision graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/index.html).
 ![block](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/block.png)
 ![fan](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/fan.png)
 
