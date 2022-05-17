@@ -8,14 +8,24 @@ This page mainly explores the current hiring social network and historical trend
 
 #### The four parts of the website are:
 
-#### -Social network graph (our main visualization topic)
-#### -Global Map of QS Anthoropology Rank
-#### -Correlation between Rankings and Placement
-#### -Dynamics Development (1976 and 2022):
-#####   Number of Positions comparison
-#####   Distribution comparison
+#### 1.Social network graph (our main visualization topic)
+#### 2.Global Map of QS Anthoropology Rank
+#### 3.Correlation between Rankings and Placement
+#### 4.Dynamics Development (1976 and 2022):
+#####  -Number of Positions comparison
+#####  -Distribution comparison
 
 ## Dataset
 Through official websites of the Department of Anthropology, we collected information on all tenured track faculty in all PhD-granting anthropology programs in the United States, for a total of 2036 individuals.
 
 For each faculty member, we paid particular attention to the institution they are currently affiliated with and the institution where they received their PhD.
+|     Datasets   | Data Sources | Numbers |
+| ------------- | ------------- | ------------- |
+|2022 PhD-granting programs	| American Anthropology Association	|105 |
+|Program Ranking	|2021 QS Subject Ranking	|100|
+|Faculty Information-First/Last Name|	Faculty list| 2036|
+|Faculty Information-Hired Institutions	| Faculty list|103|
+|Faculty Information-Doctoral Program	|Faculty Information/AnthoGuide/CV	|115 (US institutions: 100)|
+|Faculty Information-The Country of Doctoral Program|Faculty Information/AnthoGuide/CV	|NA|
+|1976 PhD-granting programs	|Status and Exchange in the Profession of Anthropology| 	68|
+
