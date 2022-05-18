@@ -40,4 +40,22 @@ For each faculty member, we paid particular attention to the institution they ar
 |Faculty Information-The Country of Doctoral Program|Faculty Information/AnthoGuide/CV	|NA|
 |1976 PhD-granting programs	|Status and Exchange in the Profession of Anthropology| 	68|
 
-## Conclusion
+## Conclusions
+
+- A map of where doctoral graduates go or of where professors come from
+
+- The pattern favor an elite minority of programs in hiring networks:
+where a person gets their PhD influences the likelihood of getting a tenure-track faculty position at a PhD-granting program
+
+- Do these graduates more well-trained or just simply wield symbolic power conferred upon them by their established mentors and institutions?
+
+## Limitations
+
+- Limited samples: only tenure tracked faculty in research universities
+
+- Limited data scale: Publications and Impact Sectors
+
+
+
+
+
