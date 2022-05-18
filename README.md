@@ -15,6 +15,17 @@ This page mainly explores the current hiring social network and historical trend
 #####  -Number of Positions comparison
 #####  -Distribution comparison
 
+
+## Research Questions
+### Who get hired?
+- Which programs are most successful at placing their graduates as faculty in other PhD-granting programs?
+### Who hired whom?
+- How is the hiring network organized?
+### Why they get hired?
+- Does ranking matter during the hiring process? 
+### Dynamics development 
+- Compared with the results from 1976, how has the networked changed?
+
 ## Dataset
 Through official websites of the Department of Anthropology, we collected information on all tenured track faculty in all PhD-granting anthropology programs in the United States, for a total of 2036 individuals.
 
@@ -29,3 +40,4 @@ For each faculty member, we paid particular attention to the institution they ar
 |Faculty Information-The Country of Doctoral Program|Faculty Information/AnthoGuide/CV	|NA|
 |1976 PhD-granting programs	|Status and Exchange in the Profession of Anthropology| 	68|
 
+## Conclusion
