@@ -1,5 +1,5 @@
 # The Social Network Analysis of US Academic Anthropology 2022
-This is a joint work by Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An, Xiaoyong Zhou for 2022 KU Leuven Data Visualization Group Assignment (Group 8).
+This is a joint work by Yang Zhao, Yawen Zhao, Huangjin Zhu, Junyu An, Xiaoyong Zhou for 2022 KU Leuven Data Visualization Group Assignment (Group 8).
 
 The visualized results are published on [Github Page](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/).
 
