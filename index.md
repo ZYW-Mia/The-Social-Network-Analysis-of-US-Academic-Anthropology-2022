@@ -1,5 +1,5 @@
 # The Social Network Analysis of US Academic Anthropology 2022
-This is a joint work by: Huangjin Zhu, Yang Zhao, Yawen Zhao, Junyu An and Xiaoyong Zhou
+This is a joint work by: Yang Zhao, Yawen Zhao, Huangjin Zhu, Junyu An and Xiaoyong Zhou
 # Hiring Network 
 
 ## For more interactions with the social network graph, please click [here](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/social_network/social_network.html). 
