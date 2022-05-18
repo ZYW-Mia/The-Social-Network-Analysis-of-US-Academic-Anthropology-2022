@@ -41,10 +41,14 @@ By comparing the distribution between the faculty positions of each university o
 ![fan](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/positions_comparison/fan.png)
 
 
-## Distrubutions Comparision
+## Numbers and Distrubutions of Posistions Comparision
+The bar chart compares numbers of the Ph.D programs and faculty positions in the U.S between 1976 and 2022. The number of Ph.D programs increased while the number of faculty positions decreased. It leads to more Ph.D graduates competing for less positions. Therefore, it's even harder for Anthropology Ph.D graduates to find faculty positions in the U.S now than 1976.
+
 This distribution chart illustrates that in 1967, the top 4 schools of the number of graduates as faculty of any school were: Harvard, UC Berkeley, Chicago, and Columbia, while in 2022 the position of Columbia became Michigan.
 
   Through the data of graduates from a particular school listed as faculty of any school in 1967 and 2022, calculating the mean and standard deviation of the year 2022, 𝜇1=23.04, 𝜎1=28.73 and the year 1967, 𝜇2=31.96, 𝜎2=53.38. Compared with 1976, the mean and standard deviation of 2022 degrees were 27.9% and 46.2%. It means in 1976, the average number of graduates who find faculty position is more than that in 2022 and these graduates are more concentrated in the top 4 schools. The decrease in standard deviation indicates that graduates from non-top 4 schools could have more opportunities to get faculty positions.
+  
+![Number](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/distribution/numbers.png)
 
 ![Distribution](https://zyw-mia.github.io/The-Social-Network-Analysis-of-US-Academic-Anthropology-2022/distribution/distribution.png)
 
